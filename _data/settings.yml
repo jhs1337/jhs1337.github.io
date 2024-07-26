@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'John Hunn Smith', title: 'Master's student', department: 'Cheriton School of Computer Science', institution: 'University of Waterloo', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'COMING SOON!', email: 'j47smith at uwaterloo dot ca', office: 'COMING SOON!', image: 'assets/img/contact.jpg'}
+- {name: "John Hunn Smith", title: "Master's student", department: "Cheriton School of Computer Science", institution: "University of Waterloo", institution_address: "200 University Ave W, Waterloo, ON Canada", phone: 'COMING SOON!', email: "j47smith at uwaterloo dot ca", office: 'COMING SOON!', image: 'assets/img/contact.jpg'}
