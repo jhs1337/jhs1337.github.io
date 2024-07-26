@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I'm a first-year master's student in the Computer Science Department at the University of Waterloo. My interests lie in complexity, algorithmic combinatorics, formalization and automated theorem proving.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I completed bachelor's degrees in both Mathematics and Electrical Engineering at the University of Illinois in 2024. My honors thesis concerned attempts at automating aspects of asymptotic derivations for certain subclasses of rational functions using analytic combinatorics in several variables.
