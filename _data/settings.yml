@@ -11,15 +11,15 @@ people:
 
 courses:
 - {name: 'CS 115 Fall 2024', url: 'cs115fa24'}
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+#- {name: 'Vector Calculus', url: 'vector-calculus'}
+#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/jhs1337'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: "John Hunn Smith", title: "Master's student", department: "Cheriton School of Computer Science", institution: "University of Waterloo", institution_address: "200 University Ave W, Waterloo, ON Canada", phone: 'COMING SOON!', email: "j47smith at uwaterloo dot ca", office: 'COMING SOON!', image: 'assets/img/contact.jpg'}
