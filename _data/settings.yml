@@ -6,8 +6,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-#- {name: 'Rafael Oliveira', title: 'Supervisor', department: 'Computer Science', institution: 'University of Waterloo', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/primary-investigator.jpg', url: <a href="https://cs.uwaterloo.ca/~r5olivei/">Website</a>}
-#- {name: 'Stephen Melczer', title: 'Supervisor', department: 'Combinatorics & Optimization', institution: 'Some University', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/lab-technician.jpg', url: <a href="https://melczer.ca">Website</a>}
+- {name: 'Rafael Oliveira', title: 'Supervisor', department: 'Computer Science', institution: 'University of Waterloo', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/primary-investigator.jpg', url: <a href="https://cs.uwaterloo.ca/~r5olivei/">Website</a>}
+- {name: 'Stephen Melczer', title: 'Supervisor', department: 'Combinatorics & Optimization', institution: 'Some University', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/lab-technician.jpg', url: <a href="https://melczer.ca">Website</a>}
 
 courses:
 - {name: 'CS 115 Fall 2024', url: 'cs115fa24'}
