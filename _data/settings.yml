@@ -1,6 +1,6 @@
 menu:
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'research', url: '/publications'}
+- {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'people', url: '/people'}
 - {name: 'contact', url: '/contact'}
@@ -10,6 +10,7 @@ people:
 - {name: 'Stephen Melczer', title: 'Supervisor', department: 'Combinatorics & Optimization', institution: 'Some University', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/lab-technician.jpg', url: 'https://melczer.ca'}
 
 courses:
+- {name: 'CS 115 Fall 2024', url: 'cs115-fall2024'}
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}

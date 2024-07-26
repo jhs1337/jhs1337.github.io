@@ -17,17 +17,17 @@ See the general course syllabus for how attending these sessions factors into yo
 
 [Lecture 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
-#[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
-#[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
 #### Handouts
 
 [Handout 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
-#[Handout 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Handout 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
-#[Handout 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Handout 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
 
 #### Exams
 
@@ -35,6 +35,4 @@ See the general course syllabus for how attending these sessions factors into yo
 
 #### Extra Fun
 
-#[ Think of something cool to put here 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-#[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
+[ Think of something cool to put here 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
