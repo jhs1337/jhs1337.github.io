@@ -9,8 +9,7 @@ layout: default
 
     <!-- {% include contact.html %} -->
     <!-- Here is where we add our contact info -->
-     <h3 class = "fw-bold"> Contact</h3>
-     <h5 class = "fw-bold"> John Hunn Smith | Cheriton School of Computer Science</h5>
+     <h5 class = "fw-bold"> Contact Information</h5>
      <dl class="row">
       <dt class="col-sm-3">Email Address</dt>
       <dd class="col-sm-9">j47smith [at] uwaterloo [dot] ca</dd>
@@ -19,7 +18,7 @@ layout: default
       <dd class="col-sm-9">DC 2306H</dd>
 
       <dt class="col-sm-3">Research Group(s)</dt>
-      <dd class="col-sm-9">
+      <dd class="col-sm-3">
         <p>
           <a href="https://algcomp.uwaterloo.ca/">Algorithms and Complexity Group</a>
         </p>
@@ -29,18 +28,18 @@ layout: default
       </dd>
     
       <dt class="col-sm-3">Institution</dt>
-      <dd class="col-sm-9">
+      <dd class="col-sm-3">
         <p>
           <a href="https://cs.uwaterloo.ca/">University of Waterloo, Department of Computer Science</a>
         </p>
-        <p>200 University Ave W </p>p>
-        <p>Waterloo, Ontario, Canada N2L 3G1 </p>
+        <p>200 University Ave W </p>
+        <p>Waterloo, Ontario, Canada N2L-3G1 </p>
       </dd>
     
     </dl>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="35%">
+    <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="42%">
   </div>
 </div>
 
@@ -48,12 +47,19 @@ layout: default
 
 </div>
 
-{% include contact.html %}
+<!-- {% include contact.html %} -->
 {% include publications.html %}
 
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
+    FILL THIS IN NEXT.
+  </div>
+</div>
+
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Blog Posts</h3>
     {% for post in site.posts %}
       <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
