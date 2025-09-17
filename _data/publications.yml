@@ -6,7 +6,7 @@ featured:
 
 # DIRECTIONS (by John ca. 7-26-2024): Copy the full MLA9 citation format into the name field, then link the URL to its page on the arxiv or in your own repository. Probably the latter if it doesn't slow down the page loading too much. :) 
 
-- {name: 'Colin Albert, Olivia Beckwith, Irfan Demetoglu, Robert Dicks, John H. Smith and Jasmine Wang, “Integer Partitions with Large Dyson Rank.” Journal of the Ramanujan Mathematical Society, Mar. 2023. ', url: '/publications/2203.08987v2.pdf'}
+- {name: 'Colin Albert, Olivia Beckwith, Irfan Demetoglu, Robert Dicks, John H. Smith and Jasmine Wang, “Integer Partitions with Large Dyson Rank.” Journal of the Ramanujan Mathematical Society, Mar. 2023. ', url: 'https://arxiv.org/abs/2203.08987'}
 
 index:
 #- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
@@ -15,4 +15,4 @@ index:
 #- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
 #- {name: '', url: ''}
 
-- {name: 'Colin Albert, Olivia Beckwith, Irfan Demetoglu, Robert Dicks, John H. Smith and Jasmine Wang, “Integer Partitions with Large Dyson Rank.” Journal of the Ramanujan Mathematical Society, Mar. 2023. ', url: '/publications/2203.08987v2.pdf'}
+- {name: 'Colin Albert, Olivia Beckwith, Irfan Demetoglu, Robert Dicks, John H. Smith and Jasmine Wang, “Integer Partitions with Large Dyson Rank.” Journal of the Ramanujan Mathematical Society, Mar. 2023. ', url: 'https://arxiv.org/abs/2203.08987'}
