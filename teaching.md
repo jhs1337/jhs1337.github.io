@@ -15,3 +15,17 @@ I have held the following TA (teaching assistant-- primarily grading) and IA (in
 </ol>
 
 <h3>Learning</h3>
+I am currently sitting in on the following courses at UWaterloo:
+<ul>
+    <li> CO 739 Section 1: Combinatorial Algebraic Geometry </li>
+    <li> CO 739 Section 2: Combinatorics and Quantum Field Theory</li>
+</ul>
+
+Previously while at Waterloo, I took:
+<ul>
+    <li> CS 860: Commutative Algebra and Algebraic Complexity, Spring 2025</li>
+    <li> PMATH 745: Representation Theory of Finite Groups, Winter 2025 </li>
+    <li> CS 687: Intro to Symbolic Computation, Winter 2025 </li>
+    <li> CO 795: Fundamentals of Optimization, Fall 2024</li>
+    <li> CS 350: Operating Systems, Fall 2024</li>
+</ul>
