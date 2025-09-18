@@ -1,7 +1,7 @@
 menu:
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/cv_transcripts/John_Hunn_Smith_CV.pdf'}
 - {name: 'home', url: ''}
 # - {name: 'people', url: '/people'}
 # - {name: 'contact', url: '/contact'}
@@ -11,7 +11,7 @@ menu:
 # - {name: 'Stephen Melczer', title: 'Supervisor', department: 'Combinatorics & Optimization', institution: 'Some University', institution_address: '200 University Ave W, Waterloo, ON Canada', phone: 'No', email: 'No', office: 'No', image: 'assets/img/lab-technician.jpg', url: 'https://melczer.ca'}
 
 courses:
-- {name: 'CS 115 Fall 2024', url: 'cs115fa24'}
+# - {name: 'CS 115 Fall 2024', url: 'cs115fa24'}
 #- {name: 'Vector Calculus', url: 'vector-calculus'}
 #- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
@@ -20,7 +20,6 @@ social:
 - {icon: 'github', link: 'https://github.com/jhs1337'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/johnhs3/'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-#- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: "John Hunn Smith", title: "Master's student", department: "Cheriton School of Computer Science", institution: "University of Waterloo", institution_address: "200 University Ave W, Waterloo, ON Canada", email: "j47smith at uwaterloo dot ca"}
