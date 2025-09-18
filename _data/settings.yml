@@ -1,6 +1,6 @@
 menu:
 - {name: 'research', url: '/research'}
-- {name: 'teaching', url: '/teaching'}
+- {name: 'teaching/learning', url: '/teaching'}
 - {name: 'cv', url: '/cv_transcripts/John_Hunn_Smith_CV.pdf'}
 - {name: 'home', url: ''}
 # - {name: 'people', url: '/people'}
