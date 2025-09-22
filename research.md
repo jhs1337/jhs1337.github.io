@@ -13,7 +13,7 @@ title: "Research"
 <ul>
   <li> <b>Computing periods of rational integrals</b>: <a href='https://algcomp.uwaterloo.ca/events/ac-reading-group/'>UW Algorithms and Complexity Reading Group</a>, July 2025. (Blackboard) </li>
   <li> <b>Coefficient positivity and analytic combinatorics</b>: <a href='https://combinatorics.chat/pasttalks/'>UW Algebraic and Enumerative Combinatorics Seminar</a>, October 2024. [<a href='/talks_posters/10_03_24_Talk_PRE_SEMINAR.pdf'>Pre-Seminar Slides</a>] [<a href='/talks_posters/10_03_24_Talk_SEMINAR.pdf'>Seminar Slides</a>] </li>
-  <li> <b>Computing asymptotic-guaranteeing index for multivariate generating functions using ACSV</b>: [UIUC ECE Virtual Research Symposium](https://combinatorics.chat/pasttalks/), May 2024. (Senior Thesis Presentation) [<a href='/talks_posters/ECE_499_Research_Symposium_Presentation.pdf'>Slides</a>] </li>
+  <li> <b>Computing asymptotic-guaranteeing index for multivariate generating functions using ACSV</b>: <a href = 'https://calendars.illinois.edu/detail/5529?eventId=33487188'>UIUC ECE Virtual Research Symposium </a>, May 2024. (Senior Thesis Presentation) [<a href='/talks_posters/ECE_499_Research_Symposium_Presentation.pdf'>Slides</a>] </li>
 </ul> 
 
 
