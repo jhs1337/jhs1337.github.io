@@ -19,7 +19,7 @@ title: "Research"
 
 <h3>Current Projects</h3>
 <ul>
-    <li><b>ACSV Coefficient Positivity</b>: Completed work set out in senior thesis. Attempting to generalize the methods presented there to derive eventual-positivity for *large* class of multivariate rational functions using an ACSV-based ‘uniformity over directions’ approach. Pre-print: Coming soon! (EOY 2025)</li>
+    <li><b>ACSV Coefficient Positivity</b>: Completed work set out in senior thesis. Attempting to generalize the methods presented there to derive eventual-positivity for large class of multivariate rational functions using an ACSV-based ‘uniformity over directions’ approach. Pre-print: Coming soon! (EOY 2025)</li>
     <li><b>Periods of Rational Integrals</b>: Currently porting Pierre Lairez's reduction <a href = 'https://www.ams.org/journals/mcom/2016-85-300/S0025-5718-2015-03054-3/'>algorithm</a> for computing annihilating ODEs for integrals of rational functions to Sage. The only existent implementation is written in Magma, which is closed-source and requires a paid license. We also investigate the possibility of achieving faster computation by using MSolve as our backend for polynomial system solving, as well as applying our implementation to derive new differential equations representing integrals arising in combinatorics and physics. This project will be completed in fulfillment of our Master’s Thesis. Code v1:Coming soon! (Early 2026)</li>
 
 </ul>
@@ -39,5 +39,5 @@ I was present at the following:
 
 <h3>Theses</h3>
 <ul>
-    <li><b>Effective Computation of Asymptotic Positivity-Guaranteeing Index Using ACSV</b>: UIUC ECE Senior Thesis, advised by <a href='https://ymb.web.illinois.edu/'>Yuliy Baryshnikov</a>. [<a href='/theses/ECE_499_Thesis_FIRST_DRAFT.pdf/'>pdf</a>], May 2024. (Blackboard)</li>
+    <li><b>Effective Computation of Asymptotic Positivity-Guaranteeing Index Using ACSV</b>: UIUC ECE Senior Thesis, advised by <a href='https://ymb.web.illinois.edu/'>Yuliy Baryshnikov</a>, May 2024. [<a href='/theses/ECE_499_Thesis_FIRST_DRAFT.pdf/'> PDF </a>]</li>
 <ul>
