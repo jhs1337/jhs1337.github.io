@@ -41,3 +41,6 @@ I was present at the following:
 <ul>
     <li><b>Effective Computation of Asymptotic Positivity-Guaranteeing Index Using ACSV</b>: UIUC ECE Senior Thesis, advised by <a href='https://ymb.web.illinois.edu/'>Yuliy Baryshnikov</a>, May 2024. [<a href='/theses/ECE_499_Thesis_FIRST_DRAFT.pdf/'> PDF </a>]</li>
 <ul>
+
+<h3>Misc</h3>
+<p><a href='/misc/jhs1337.sty'>Here</a> are the LaTeX macros and imports I use for everything. This is a modified version of a stylesheet originally created by <a href='https://jeffe.cs.illinois.edu/'>Jeff Erickson</a>.</p>
