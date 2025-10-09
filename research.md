@@ -43,4 +43,4 @@ I was present at the following:
 </ul>
 
 <h3>Misc</h3>
-<p><a href='/misc/jhs1337.sty'>Here</a> are the LaTeX macros and imports I use for everything. This is a modified version of a stylesheet originally created by <a href='https://jeffe.cs.illinois.edu/'>Jeff Erickson</a>.</p>
+<p><a href='/misc/jhs1337.sty'>Here</a> are the LaTeX macros I use for everything. This is a modified version of a stylesheet originally created by <a href='https://jeffe.cs.illinois.edu/'>Jeff Erickson</a>.</p>
